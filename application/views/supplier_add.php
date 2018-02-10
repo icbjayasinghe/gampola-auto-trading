@@ -321,7 +321,7 @@
 
                             <!-- checkbox -->
 
-                            <div style="padding-left: 800px">
+                            <div style="align-content: right" class="col-md-12">
                                 <button type="submit" class="btn btn-success">Submit</button>
                             </div>
 
