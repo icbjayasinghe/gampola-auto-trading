@@ -29,9 +29,9 @@ class Buyer extends CI_Controller{
         $this->form_validation->set_rules('buy_nic', 'Buyer NIC', 'required');
         $this->form_validation->set_rules('buy_tel', 'Buyer Tel.', 'required|min_length[10]|max_length[10]');
         $this->form_validation->set_rules('buy_address', 'Buyer Address', 'required');
-        $this->form_validation->set_rules('leasing_name', 'Leasing Company Name', 'required');
-        $this->form_validation->set_rules('no_of_installments', 'No of installments', 'required');
-        $this->form_validation->set_rules('installment_amount', 'Installment amount', 'required');
+        //$this->form_validation->set_rules('leasing_name', 'Leasing Company Name', 'required');
+        //$this->form_validation->set_rules('no_of_installments', 'No of installments', 'required');
+        //$this->form_validation->set_rules('installment_amount', 'Installment amount', 'required');
         $this->form_validation->set_rules('insurance_name', 'Insurance Company Name', 'required');
         //$this->form_validation->set_rules('buy_description', 'Insurance Company Name', 'required');
 
