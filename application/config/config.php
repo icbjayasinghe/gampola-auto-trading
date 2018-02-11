@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://35.190.159.59/gampola-auto-trading/';
+$config['base_url'] = 'http://www.gampolaautotrading.com/gampola-auto-trading/';
 
 /*
 |--------------------------------------------------------------------------
